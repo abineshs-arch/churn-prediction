@@ -1,0 +1,21 @@
+customerID,churn_probability,predicted_churn,action
+2754-SDJRD,0.87,1,Call - retention offer
+4706-AXVKM,0.809,1,Call - retention offer
+1379-FRVEB,0.803,1,Call - retention offer
+4686-UXDML,0.722,1,Call - retention offer
+2227-JRSJX,0.588,1,Call - retention offer
+0365-GXEZS,0.568,1,Call - retention offer
+4690-LLKUA,0.56,1,Call - retention offer
+5804-HYIEZ,0.468,0,No action
+5533-RJFTJ,0.402,0,No action
+4753-PADAS,0.384,0,No action
+0997-YTLNY,0.344,0,No action
+5701-GUXDC,0.202,0,No action
+7971-HLVXI,0.196,0,No action
+9917-KWRBE,0.192,0,No action
+4830-FAXFM,0.188,0,No action
+4376-KFVRS,0.089,0,No action
+9385-NXKDA,0.07,0,No action
+2388-LAESQ,0.07,0,No action
+7337-CINUD,0.061,0,No action
+1830-IPXVJ,0.025,0,No action
