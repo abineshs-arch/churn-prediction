@@ -1,0 +1,8 @@
+Model,Val accuracy,Val ROC-AUC,Val R2
+Logistic Regression,0.839,0.809,
+Decision Tree,0.817,0.75,
+Random Forest,0.834,0.779,
+XGBoost,0.836,0.791,
+Linear Regression (loan amount),,,0.714
+Ridge Regression (loan amount),,,0.713
+Lasso Regression (loan amount),,,0.704
